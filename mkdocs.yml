@@ -1,4 +1,5 @@
 site_name: SY's TW Blog
+site_url: https://schoi28.github.io/myBlog/
 theme:
   name: material
 
